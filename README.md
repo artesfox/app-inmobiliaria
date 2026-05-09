@@ -55,5 +55,5 @@ sin necesidad de programar.
 </p>
 
 <p>
-⏱️ Aproximadamente 30 minutos de video y 2 horas de implementación.
+<strong>⏱️ Aproximadamente 30 minutos de video y 2 horas de implementación.</strong>
 </p>
