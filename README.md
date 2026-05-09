@@ -7,6 +7,7 @@ AppSheet, GitHub y Cloudflare Pages.
 
 <p><strong>Ejemplo:</strong> https://inmobiliariapro.pages.dev/</p>
 
+<h2>Paso a paso</h2>
 <ul>
   <li>
     <a href="https://www.youtube.com/watch?v=5i9vbEnJ1CI&t=302s" target="_blank">
