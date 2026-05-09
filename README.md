@@ -14,37 +14,37 @@ AppSheet, GitHub y Cloudflare Pages.
 
 <ul>
   <li>
-    <a href="https://www.youtube.com/watch?v=5i9vbEnJ1CI&t=302s" target="_blank">
+    <a href="https://www.youtube.com/watch?v=5i9vbEnJ1CI&t=302s" target="_blank" rel="noopener noreferrer">
       05:02 Crear el Fork en GitHub 🍴🐙
     </a>
   </li>
 
   <li>
-    <a href="https://www.youtube.com/watch?v=5i9vbEnJ1CI&t=348s" target="_blank">
+    <a href="https://www.youtube.com/watch?v=5i9vbEnJ1CI&t=348s" target="_blank" rel="noopener noreferrer">
       05:48 Crear cuenta en Cloudflare ⚡☁
     </a>
   </li>
 
   <li>
-    <a href="https://www.youtube.com/watch?v=5i9vbEnJ1CI&t=515s" target="_blank">
+    <a href="https://www.youtube.com/watch?v=5i9vbEnJ1CI&t=515s" target="_blank" rel="noopener noreferrer">
       08:35 Importar de GitHub a Cloudflare 🔄
     </a>
   </li>
 
   <li>
-    <a href="https://www.youtube.com/watch?v=5i9vbEnJ1CI&t=928s" target="_blank">
+    <a href="https://www.youtube.com/watch?v=5i9vbEnJ1CI&t=928s" target="_blank" rel="noopener noreferrer">
       15:28 Clonar la App de Administración (AppSheet) 📱
     </a>
   </li>
 
   <li>
-    <a href="https://www.youtube.com/watch?v=5i9vbEnJ1CI&t=1306s" target="_blank">
+    <a href="https://www.youtube.com/watch?v=5i9vbEnJ1CI&t=1306s" target="_blank" rel="noopener noreferrer">
       21:46 Conectar la App con el sitio web 🔌
     </a>
   </li>
 
   <li>
-    <a href="https://www.youtube.com/watch?v=5i9vbEnJ1CI&t=1807s" target="_blank">
+    <a href="https://www.youtube.com/watch?v=5i9vbEnJ1CI&t=1807s" target="_blank" rel="noopener noreferrer">
       30:07 Verificación y edición final ✨
     </a>
   </li>
